@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AgeeeDev
-- 👀 I’m interested in anything related to web development
-- 🌱 I’m currently learning how to make maximal use of GitHub to develop myself
-- 📫 I'm on YouTube, Ageee Dev is my channel's name 
+- I’m @AgeeeDev
+- Check out my amazing videos on YouTube (Ageee Dev)
+
 
 <!---
 AgeeeDev/AgeeeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
